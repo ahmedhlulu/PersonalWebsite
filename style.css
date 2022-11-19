@@ -50,7 +50,7 @@ section {
     align-items: center;
     background: url(images/background-image.jpg) no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: right;
     background-attachment: fixed;
 }
 
